@@ -120,11 +120,6 @@ Wazuh successfully detected the SSH brute force attack and generated alerts for:
 - SSH brute force detection rule triggered
 - Active Response executed
 
-<p align="center">
-  <img src="Detection-Results02.png.jpg" width="900">
-   <img src="Detection-Results03.png.jpg" width="900">
-   <img src="Detection-Results04.png.jpg" width="900">
-</p>
 
 ---
 
@@ -180,6 +175,13 @@ Review:
 - Active Response status
 
 ---
+
+<p align="center">
+  <img src="Detection-Results02.png.jpg" width="900">
+   <img src="Detection-Results03.png.jpg" width="900">
+   <img src="Detection-Results04.png.jpg" width="900">
+</p>
+
 
 ## Incident Analysis
 
